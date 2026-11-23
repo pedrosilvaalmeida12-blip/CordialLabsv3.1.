@@ -1,0 +1,16 @@
+{
+  "name": "Cordials Lab",
+  "short_name": "Cordials Lab",
+  "description": "Laboratório pessoal de formulação de cordiais, shrubs e cocktails.",
+  "lang": "pt-PT",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#10100f",
+  "theme_color": "#11110f",
+  "orientation": "any",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
